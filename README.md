@@ -1,1 +1,2 @@
-Repositorio donde descubriremos con el team como hackear al gobierno
+Repositorio donde con el Team vamos a trabajar sobre como escribir una película en la que Enrique Iglesias se encuentra con Christian y...
+descubriremos como hackear al gobierno
