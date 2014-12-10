@@ -1,5 +1,10 @@
 <?php 
+// Agrego variables de referencia
+$min = 1;
+$max = 5;
 
-echo "Anaconda"; 
+
+// Llevo el resultado a la consola
+echo ("Anaconda ". rand($min,$max). " ");
 
 ?>
